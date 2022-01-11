@@ -4,7 +4,7 @@ Expense tracker application, built in React.js, where you can review and add new
 ## Installation
 
 ```
-git clone git@github.com:rekamdcsi/expense_tracker_demo.git
+git clone https://github.com/rekamdcsi/expense_tracker_demo.git
 cd expense_tracker_demo
 npm install
 ```
